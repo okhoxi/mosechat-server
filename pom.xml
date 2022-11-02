@@ -19,6 +19,7 @@
         <module>mosechat-log</module>
         <module>mosechat-client</module>
         <module>mosechat-example</module>
+        <module>mosechat-dist</module>
     </modules>
 
 
