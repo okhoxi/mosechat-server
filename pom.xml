@@ -18,6 +18,7 @@
         <module>mosechat-mq</module>
         <module>mosechat-log</module>
         <module>mosechat-client</module>
+        <module>mosechat-example</module>
     </modules>
 
 
