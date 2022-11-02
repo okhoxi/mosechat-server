@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mosechat-api" />
+        <module name="mosechat-auth" />
+        <module name="mosechat-common" />
+        <module name="mosechat-core" />
+        <module name="mosechat-gateway" />
+        <module name="mosechat-log" />
+        <module name="mosechat-mq" />
+        <module name="mosechat-storage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mosechat" target="1.5" />
+      <module name="mosechat-api" target="1.5" />
+      <module name="mosechat-auth" target="1.5" />
+      <module name="mosechat-common" target="1.5" />
+      <module name="mosechat-core" target="1.5" />
+      <module name="mosechat-gateway" target="1.5" />
+      <module name="mosechat-log" target="1.5" />
+      <module name="mosechat-mq" target="1.5" />
+      <module name="mosechat-storage" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
