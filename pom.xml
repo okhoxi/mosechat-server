@@ -17,6 +17,7 @@
         <module>mosechat-storage</module>
         <module>mosechat-mq</module>
         <module>mosechat-log</module>
+        <module>mosechat-client</module>
     </modules>
 
 
